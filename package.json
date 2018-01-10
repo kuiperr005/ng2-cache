@@ -13,18 +13,18 @@
   "typings": "ng2-cache.d.ts",
   "keywords": [
     "cache",
-    "angular2",
+    "angular5",
     "client-side",
     "caching"
   ],
   "author": "Evgenii Romanov",
   "license": "ISC",
   "peerDependencies": {
-    "@angular/core": "^4.0.0",
+    "@angular/core": "^5.0.1",
     "rxjs": "^5.0.1",
-    "zone.js": "^0.8.4"
+    "zone.js": "^0.8.18"
   },
   "devDependencies": {
-    "typescript": "~2.1.0"
+    "typescript": "~2.2.2"
   }
 }
